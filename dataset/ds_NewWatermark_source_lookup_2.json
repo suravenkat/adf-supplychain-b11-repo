@@ -1,0 +1,13 @@
+{
+	"name": "ds_NewWatermark_source_lookup_2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_source_sql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
