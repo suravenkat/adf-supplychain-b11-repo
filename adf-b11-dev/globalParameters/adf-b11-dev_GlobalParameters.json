@@ -1,0 +1,10 @@
+{
+	"container": {
+		"type": "string",
+		"value": "gen2container"
+	},
+	"filePath": {
+		"type": "string",
+		"value": "target"
+	}
+}
